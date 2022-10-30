@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Monoid;
+    src: url('../font/Monoid-Regular.ttf');
+}
+
+body {
+    background-color: black;
+}
+
+#wrapper {
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+button {
+    color: chartreuse;
+    background-color: gray;
+    font-size: 25px;
+    padding: 10px;
+}
+
